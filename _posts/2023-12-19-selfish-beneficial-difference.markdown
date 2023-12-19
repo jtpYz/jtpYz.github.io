@@ -3,7 +3,7 @@ layout:     post
 title:      "自私与自利有什么区别？"
 subtitle:   ""
 date:       2023-12-19 12:00:00
-author:     "tpYz"
+author:     "jtpYz"
 header-img: ""
 tags:
     - 得意忘形
