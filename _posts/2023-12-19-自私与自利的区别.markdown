@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "自私与自利的区别"
-subtitle:   "感悟"
+subtitle:   ""
 date:       2023-12-19
 author:     "jtpYz"
 header-img: "img/post-default.jpg"
