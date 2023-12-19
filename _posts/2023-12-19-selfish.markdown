@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "自私与自利有什么区别？"
-subtitle:   " "
+title:      "自私与自利的区别"
+subtitle:   "感悟"
 date:       2023-12-19
 author:     "jtpYz"
 header-img: "img/post-bg-js-module.jpg"
 tags:
-    - 得意忘形
+    - 生活
 ---
 
 得意忘形39-1:10
